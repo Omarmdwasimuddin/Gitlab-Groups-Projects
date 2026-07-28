@@ -21,3 +21,5 @@ git branch -M main
 git push -u origin main
 ```
 ---
+
+#### gitlab e giye browser reload daw successfully code push hoyegeche dekhte pabe.
