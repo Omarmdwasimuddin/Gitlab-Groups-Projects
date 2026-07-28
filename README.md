@@ -11,4 +11,13 @@ code .
 ```
 ---
 
-#### 
+#### VS code editor e index.html file create koro ---> ! diye enter press koro html structure chole asbe ---> vs code er terminal open koro command daw
+```bash
+git init
+git add .
+git commit -m 'initial'
+git remote add origin git@gitlab.com:wasuit-group1/wasimu.it/code-push.git
+git branch -M main
+git push -u origin main
+```
+---
